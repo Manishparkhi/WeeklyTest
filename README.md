@@ -18,7 +18,7 @@
 
 ### Data Structure used in my project
 
-In our project ArrayList and the methods involved with ArrayList, like add method for posting new Restaurant_name, remove method for deleting a Restaurant_Id, combination of add and remove method for update Restaurant_Id and linear search function for searching a user in Java by specific userId.
+In our project H2 database and the methods involved with h2 Database, like add method for posting new User information, remove method for deleting a User_Id, combination of add and remove method for update User_Id and linear search function for searching a user in Java by specific userId.
 ### Project Summary
 
 Our project basically maintains the upcoming user information which includes -
